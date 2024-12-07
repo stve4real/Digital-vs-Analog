@@ -1,0 +1,35 @@
+.digital{
+    background-color: red;
+    font-weight: bold;
+}
+
+.analog{
+    background-color: yellow;
+    font-style: italic;
+}
+ a{
+ font-weight: normal;
+}
+
+h1{
+    font-size: 32px;
+    font-style: italic;
+    text-align: center;
+    border: 5px solid orange;
+    
+
+    
+}
+.digitalpa{
+    font-weight: bold;
+}
+
+.analogpa{
+    font-weight:bold;
+}
+body{
+    font-family: sans-serif;
+}
+.h1{
+    border: 8px orange;
+}
