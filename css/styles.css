@@ -16,7 +16,10 @@ h1{
     font-style: italic;
     text-align: center;
     border: 5px solid orange;
-    
+     border-style: dotted;
+     border-width: 6px;
+     
+     
 
     
 }
@@ -29,7 +32,4 @@ h1{
 }
 body{
     font-family: sans-serif;
-}
-.h1{
-    border: 8px orange;
 }
